@@ -3,7 +3,7 @@ Download Mega.nz into Google Drive
 
 Open in Colab
 →
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Map987/Google-Colab-Mega-Downloader/blob/master/Mega_Drive.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Map987/Google-Colab-Mega-Downloader/blob/master/Mega_Drive.ipynb)
 
 ## 安装
 ```
